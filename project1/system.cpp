@@ -10,7 +10,7 @@ int main(){
     string text,old,password1,password2,pass,name,password0,age,user,word,word1;
     string creds[2],cp[2];
 
-    cout <<"    Security System " <<endl;
+    cout <<"    Security System    " <<endl;
 
     cout <<"___________________________"<<endl<<endl;
     cout <<"|        1.Register         |"<<endl;
